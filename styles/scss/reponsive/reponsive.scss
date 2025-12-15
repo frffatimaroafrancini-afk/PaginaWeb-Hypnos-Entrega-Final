@@ -1,0 +1,17 @@
+@media (max-width: 1024px) {
+  .section-row {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 0.9rem;
+  }
+}

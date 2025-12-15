@@ -1,0 +1,11 @@
+.site-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background: linear-gradient(
+    to bottom,
+    rgba(239, 230, 219, 0.95),
+    rgba(239, 230, 219, 0)
+  );
+}
