@@ -1,0 +1,17 @@
+body {
+  font-family: "Book Antiqua", serif;
+  background-color: var(--beige);
+  color: var(--text-dark);
+  line-height: 1.6;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
